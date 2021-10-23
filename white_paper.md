@@ -1,6 +1,6 @@
-##DOW7COIN
-#White Paper
-###V 1.7 by Dow7Coin Team 2021
+DOW7COIN
+**White Paper**
+V 1.7 by Dow7Coin Team 2021
 
 TABLE OF CONTENTS 
 
@@ -18,3 +18,12 @@ TABLE OF CONTENTS
 -RoadMap 
 -Meet our Team
 -Disclaimer 
+
+Our Principles
+
+• Integrity. Be loyal, truthful and honest in all professional and business
+relationships.
+• Objectivity. Avoid prejudice, conflicts of interest, or undue influence of
+third parties that affect professional or business judgment.
+
+
